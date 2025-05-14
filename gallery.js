@@ -58,7 +58,7 @@ window.onload = () => {
       },
       buttons: [
         {
-          title: "모바일청첩장",
+          title: "모바일청첩장 보러가기",
           link: {
             mobileWebUrl: "https://mo85.luvle.kr",
             webUrl: "https://mo85.luvle.kr",
