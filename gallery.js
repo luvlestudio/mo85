@@ -48,7 +48,7 @@ window.onload = () => {
       content: {
         title: "강석 ♥ 혜진의 모바일 청첩장",
         description: "2025년 8월 30일 토요일♡",
-        imageUrl: "https://i.imgur.com/KV98idM.png",
+        imageUrl: "https://i.imgur.com/J5cyqvW.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
