@@ -361,7 +361,7 @@
           mapLinkEl.addEventListener("click", () => { 
             const userAgent = navigator.userAgent.toLowerCase();
     
-            if (userAgent.indexOf('iphone') > -1) {
+            if (userAgent.indexOf('iphone') > -1 || userAgent.indexOf('android') > -1) {
               window.location.href = "kakaomap://place?id=871976307"
             } else {
               window.location.href = "https://kko.kakao.com/1IO9oTKyb0";
